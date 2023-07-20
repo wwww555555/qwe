@@ -9,8 +9,8 @@
 </head>
 <body>
 <form action="login">
-	用：<input id="username" name="username" type="text"></input><br>
-	密：<input id="username" name="password" type="password"></input><br>
+	y：<input id="username" name="username" type="text"></input><br>
+	m：<input id="username" name="password" type="password"></input><br>
 	<input type="submit" value="登录">
 </form>
 </body>
